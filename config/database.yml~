@@ -6,7 +6,7 @@ default: &default
   host: localhost // o la dirección de su host local de PG
   encoding: unicode
   username: alvarovh
-  password: 6294684xd
+  password: 123456
 
 development:  
   <<: *default
